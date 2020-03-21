@@ -15,7 +15,7 @@ Developer and Desinger : Shivam Hande
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-Follow me Instagram : https://www.instagram.com/shiv.am.h/
+Follow me on Instagram : https://www.instagram.com/shiv.am.h/
 ****************************************************************
 Website: https://www.cwipedia.in/
          https://www.circuitcoder.com/
