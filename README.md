@@ -1,5 +1,5 @@
 # Feedback-System-in-php
-The Student Feedback System is designed and develope using HTML,CSS,PHP and Backend is developed using MYSql database
+The Student Feedback System is designed and develope using HTML,CSS,PHP and using MYSql database
 
 +++++++++++++++++++++++++++++
 Rquirements:
